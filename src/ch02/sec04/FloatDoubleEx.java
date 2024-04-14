@@ -1,4 +1,4 @@
-package sec04;
+package ch02.sec04;
 
 public class FloatDoubleEx {
     public static void main(String[] args) {

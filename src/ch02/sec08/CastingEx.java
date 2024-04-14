@@ -1,4 +1,4 @@
-package sec08;
+package ch02.sec08;
 
 public class CastingEx {
     public static void main(String[] args) {

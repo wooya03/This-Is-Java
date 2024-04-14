@@ -1,4 +1,4 @@
-package sec03;
+package ch02.sec03;
 
 public class CharEx {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package sec05;
+package ch02.sec05;
 
 public class BooleanEx {
     public static void main(String[] args) {

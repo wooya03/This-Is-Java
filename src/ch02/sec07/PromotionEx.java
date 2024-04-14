@@ -1,4 +1,4 @@
-package sec07;
+package ch02.sec07;
 
 public class PromotionEx {
     public static void main(String[] args) {

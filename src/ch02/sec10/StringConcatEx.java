@@ -1,4 +1,4 @@
-package sec09;
+package ch02.sec10;
 
 public class StringConcatEx {
     public static void main(String[] args) {
