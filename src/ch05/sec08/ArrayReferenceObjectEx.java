@@ -1,4 +1,4 @@
-package ch04.sec08;
+package ch05.sec08;
 
 public class ArrayReferenceObjectEx {
     public static void main(String[] args) {

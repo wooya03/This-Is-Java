@@ -1,4 +1,4 @@
-package ch04.sec05;
+package ch05.sec05;
 
 public class LengthEx {
     public static void main(String[] args) {

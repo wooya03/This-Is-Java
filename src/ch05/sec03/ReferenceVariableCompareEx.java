@@ -1,4 +1,4 @@
-package ch04.sec03;
+package ch05.sec03;
 
 public class ReferenceVariableCompareEx {
     public static void main(String[] args) {

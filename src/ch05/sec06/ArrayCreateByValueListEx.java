@@ -1,4 +1,4 @@
-package ch04.sec06;
+package ch05.sec06;
 
 public class ArrayCreateByValueListEx {
     public static void main(String[] args) {

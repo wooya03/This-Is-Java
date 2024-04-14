@@ -1,4 +1,4 @@
-package ch04.sec07;
+package ch05.sec07;
 
 public class MultidimensionalArrayByNewEx {
     public static void main(String[] args) {

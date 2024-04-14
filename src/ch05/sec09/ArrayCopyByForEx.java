@@ -1,4 +1,4 @@
-package ch04.sec09;
+package ch05.sec09;
 
 public class ArrayCopyByForEx {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ch04.sec10;
+package ch05.sec10;
 
 public class AdvancedForEx {
     public static void main(String[] args) {
